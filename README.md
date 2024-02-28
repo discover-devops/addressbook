@@ -1,5 +1,6 @@
 Apply CI - mypipeline
 Yes its working fine now..
+added my slave node..
 
 Addressbook Tutorial
 ====================
