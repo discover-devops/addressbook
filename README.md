@@ -1,4 +1,4 @@
-My git-SCM Poll - build pipeline
+
 Yes its working fine now..
 added my slave node..
 
