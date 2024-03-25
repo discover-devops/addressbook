@@ -1,4 +1,4 @@
-Apply CI - mypipeline
+My git-trigger assignment.
 Yes its working fine now..
 added my slave node..
 
