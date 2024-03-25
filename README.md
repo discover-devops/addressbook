@@ -1,4 +1,4 @@
-My git-trigger assignment.
+My git-SCM Poll
 Yes its working fine now..
 added my slave node..
 
