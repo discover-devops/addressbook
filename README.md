@@ -1,5 +1,4 @@
-Added a new Line of code
-Added DashBoard
+
 Addressbook Tutorial
 ====================
 
